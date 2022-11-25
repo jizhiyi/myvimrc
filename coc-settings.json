@@ -1,0 +1,14 @@
+{
+    "clangd.enabled": true,
+    "clangd.path": "/home/yuanxinyong/del/clangd/bin/clangd",
+    "clangd.arguments": ["--limit-references=0", "--background-index"],
+    "golines.path": "/home/yuanxinyong/del/gopath/bin/golines",
+    "coc.preferences.formatOnSaveFiletypes": [
+        "lua",
+        "python",
+        "go",
+    ],
+    "sumneko-lua.prompt": false,
+    "sumneko-lua.locale": "zh-ch",
+    "Lua.telemetry.enable": false
+}
